@@ -1,8 +1,8 @@
 import React from 'react';
 import { View, Text, Image, ScrollView, StyleSheet } from 'react-native';
 
-import DefaultButton from '../../components/common/DefaultButton';
 import LifeStatus from '../../components/common/LifeStatus';
+import DefaultButton from '../../components/common/DefaultButton';
 
 export default function Start() {
   const handleNavAppExplanation = () => {
